@@ -1,0 +1,6 @@
+{
+  "name": "Eray Digital - Trésorerie & Finance",
+  "description": "Logiciel de gestion financière, pilotage de trésorerie multi-comptes et calcul de rentabilité pour Eray Digital en Ariary (Ar).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
